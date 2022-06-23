@@ -7,7 +7,7 @@
 
 This Blueprint shows how we can generate a Salesforce OAuth 2.0 JWT Bearer Access Token. This access token can then be used for any type of Salesforce integration, like listing, creating or updating objects in Salesforce. This workflow is easy reuse in others Salesforce integration workflows.
 
-![Onify Blueprint: Generate access token for Salesforce API](flow.png "Flow")
+![Onify Blueprint: Generate access token for Salesforce API](blueprint.jpg "Blueprint")
 
 ## Requirements
 
